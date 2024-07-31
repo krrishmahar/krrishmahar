@@ -3,9 +3,6 @@ name: Update README with Tweets
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight
-  push:
-    branches:
-      - main  # Runs on push to the main branch
   workflow_dispatch:
 
 jobs:

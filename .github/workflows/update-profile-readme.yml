@@ -15,7 +15,6 @@ jobs:
       - name: Update README with latest articles
         uses: Prachi-Jamdade/update-content@v1.0.0
         with:
-          feed_urls: |
-            'https://medium.com/feed/@krrishmahar5'
+          feed_urls: https://medium.com/feed/@krrishmahar5
           article_limit: 5
           github_token: ${{ secrets.TOKEN_GITHUB }}```

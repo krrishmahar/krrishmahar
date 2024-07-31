@@ -1,5 +1,5 @@
-from krrishmahar.scrapper import user_signin, parse_data
-from krrishmahar.update_README import write_tweets, update_readme
+from scrapper import user_signin, parse_data
+from update_README import write_tweets, update_readme
 
 if __name__ == "__main__":
     data = user_signin()

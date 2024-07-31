@@ -17,4 +17,4 @@ jobs:
         with:
           feed_urls: https://medium.com/feed/@krrishmahar5
           article_limit: 5
-          github_token: ${{ secrets.TOKEN_GITHUB }}```
+          github_token: ${{ secrets.TOKEN_GITHUB }}

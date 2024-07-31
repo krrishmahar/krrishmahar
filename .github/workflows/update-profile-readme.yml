@@ -1,6 +1,21 @@
-- name: Update Profile README
-  uses: Prachi-Jamdade/update-content@v1.0.0
-  with:
-    feed_urls: https://medium.com/@krrishmahar5
-    article_limit: 5  # default is 5
-    github_token: ${{ secrets.TOKEN_GITHUB }}
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with latest articles
+        uses: Prachi-Jamdade/Prachi-Jamdade@v1.1.0
+        with:
+          feed_urls: 'https://medium.com/@krrishmahar5'
+          article_limit: 5
+          article_type: 'recent'
+          github_token: ${{ secrets.TOKEN_GITHUB }}```

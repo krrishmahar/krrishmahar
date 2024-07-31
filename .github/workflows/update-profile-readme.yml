@@ -12,8 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README with latest articles
-        uses: Prachi-Jamdade/Prachi-Jamdade@v1.1.0
+      - name: Update Profile README
+        uses: Prachi-Jamdade/update-content@v1.1.0    
         with:
           feed_urls: 'https://medium.com/@krrishmahar5'
           article_limit: 5

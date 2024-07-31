@@ -24,6 +24,10 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run scraper
+      env:
+        USER: ${{ secrets.USER }}
+        EMAIL: ${{ secrets.EMAIL }}
+        PASSWORD: ${{ secrets.PASSWORD }}
       run: python app.py
 
     - name: Commit changes
@@ -31,7 +35,7 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add README.md
-        git commit -m "Update README with latest tweets"
+        git commit -m "Update README with latest tweets" || echo "No changes to commit"
 
     - name: Push changes
       env:

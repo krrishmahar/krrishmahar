@@ -20,8 +20,8 @@ chrome_options = Options()
 chrome_options.add_argument("--headless=new")  # for Chrome >= 109
 
 os.environ['PATH'] += 'Driver'
-# driver = webdriver.Chrome(options=chrome_options)
-driver = webdriver.Remote("http://127.0.0.1:4444/wd/hub", options=webdriver.ChromeOptions())
+driver = webdriver.Chrome(options=chrome_options)
+# driver = webdriver.Remote("http://127.0.0.1:4444/wd/hub", options=webdriver.ChromeOptions())
 
 ''' better alternative I found in StackOverFlow which helps to run chrome webdriver docker images headless
     Reason? website crawlers and robots.txt might block that client(browser) req due to its --headless tag but,

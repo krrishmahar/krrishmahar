@@ -3,7 +3,7 @@ def write_tweets(file_path, tweets):
         f.write('## Some Tweets\n\n')
         for tweet in tweets:
             f.write("```bash\n")
-            f.write(f'"Tweet: {tweet['text']}"\n')
+            f.write(f"'weet: {tweet['text']}'\n")
             f.write(f"\t\t\t\t\t\t - {tweet['time']}\n")
             f.write("```\n")
 

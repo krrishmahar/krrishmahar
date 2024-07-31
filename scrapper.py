@@ -12,6 +12,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime
 from dotenv import load_dotenv
+from dateutil import parser
 
 load_dotenv()
 
@@ -92,8 +93,8 @@ def parse_data(source):
         time_tag = tweet.find('time')
         if time_tag:
             timestamp = time_tag['datetime']
-            # Parse and format the timestamp
-            parsed_timestamp = datetime.fromisoformat(timestamp)
+            # Parse and format the timestamp using dateutil.parser
+            parsed_timestamp = parser.isoparse(timestamp)
             formatted_timestamp = parsed_timestamp.strftime('%d/%m/%Y')
         else:
             formatted_timestamp = 'No timestamp found'

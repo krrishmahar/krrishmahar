@@ -1,7 +1,0 @@
----
-- name: Update Profile README
-  uses: Prachi-Jamdade/update-content@v1.0.0
-  with:
-    feed_urls: https://medium.com/@krrishmahar5
-    article_limit: 5  # default is 5
-    github_token: ${{ secrets.TOKEN_GITHUB }}

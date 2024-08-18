@@ -1,20 +1,20 @@
-name: Update Profile README
+# name: Update Profile README
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch: # Allows manual triggering
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'  # Runs daily at midnight
+#   workflow_dispatch: # Allows manual triggering
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
 
-      - name: Update README with latest articles
-        uses: Prachi-Jamdade/update-content@v1.0.0
-        with:
-          feed_urls: https://medium.com/feed/@krrishmahar5
-          article_limit: 5
-          github_token: ${{ secrets.TOKEN_GITHUB }}
+#       - name: Update README with latest articles
+#         uses: Prachi-Jamdade/update-content@v1.0.0
+#         with:
+#           feed_urls: https://medium.com/feed/@krrishmahar5
+#           article_limit: 5
+#           github_token: ${{ secrets.TOKEN_GITHUB }}

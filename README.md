@@ -1,76 +1,42 @@
+<h1 align="center">Hi 👋, I'm Krrish Mahar</h1>
+<h3 align="center">DevOps Enthusiast | Cloud Explorer | Open to Remote Roles</h3>
 
-# Hi, I’m Krrish Mahar 👋
-
-I'm a **3rd-year Computer Engineering student** passionate about DevOps, automation, and cloud infrastructure. I’m actively learning and applying technologies like Docker, Kubernetes, Jenkins, AWS, and CI/CD pipelines, and I’m seeking remote internships or roles in DevOps.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 **Background:** 3rd-year B.Tech in Computer Engineering
-- 🌱 **DevOps Focus:** CI/CD pipelines, containerization, infrastructure automation
-- ☁️ **Cloud:** Hands-on with AWS services – EC2, S3, RDS
-- 🐳 **Tools:** Jenkins, GitHub Actions, Docker, Terraform, Kubernetes (Minikube)
-- 🤖 **Side Focus:** ML/DL basics – Linear Regression, SVM, ANN, CNN
-- ✍️ **Blogging:** [medium.com/@krrishmahar5](https://medium.com/@krrishmahar5)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer+in+training;AWS+%7C+Docker+%7C+K8s+%7C+CI%2FCD;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Key DevOps Projects
+## 👨‍💻 About Me
 
-### 🔹 [Go Wiki DevOpsified](https://github.com/krrishmahar/go-wiki-devopsified)
-> Dockerized Go wiki app with CI/CD pipeline using Jenkins and GitHub Webhooks. Deployed to AWS EC2 with automated builds and Nginx setup.
-
-### 🔹 [Java App on AWS – 3 Tier Architecture](https://github.com/krrishmahar/Java-App-on-AWS-3-Tier-Architecture)
-> Java web app using EC2, RDS, and S3. Configured Tomcat, Nginx reverse proxy, and manual AWS provisioning with a cloud-native 3-tier design.
-
-### 🔹 [Veda Hotel Booking App](https://github.com/krrishmahar/veda-app)
-> Frontend (React + Tailwind CSS) and Backend ([Spring Boot](https://github.com/krrishmahar/veda-app-backend)) hotel booking platform. Dockerized backend with GitHub Actions CI/CD.
-
-### 🔹 [Fetch My Tweets](https://github.com/krrishmahar/fetch-tweets)
-> GitHub Action that scrapes latest tweets using Python + Selenium and updates your GitHub profile README automatically.
-
-### 🔹 [Microblog](https://github.com/krrishmahar/my-microblog)
-> Flask-based microblog built from scratch with database integration and authentication. Longest maintained project.
+- 🎓 3rd-year Computer Engineering student passionate about DevOps, cloud, and automation
+- 🛠️ Built CI/CD pipelines with Jenkins & GitHub Actions, deployed apps on AWS, Dockerized full-stack apps
+- 🤖 Learning ML/DL (ANN, CNN, SVM) with future plans to integrate into DevOps workflows
+- 📫 Reach me at **krrishmahar5@gmail.com**
 
 ---
 
-Always show details
-# Updated README with icons for tech stack (DevOps, ML, etc.)
-readme_with_icons = """
-# Hi, I’m Krrish Mahar 👋
+## 🔨 My DevOps Projects
 
-I'm a **3rd-year Computer Engineering student** passionate about DevOps, automation, and cloud infrastructure. I’m actively learning and applying technologies like Docker, Kubernetes, Jenkins, AWS, and CI/CD pipelines, and I’m seeking remote internships or roles in DevOps.
+### 📦 [Go Wiki DevOpsified](https://github.com/krrishmahar/go-wiki-devopsified)
+CI/CD using Jenkins, GitHub Webhooks → Dockerized Go App → EC2 + Nginx  
+> Tools: Go, Docker, Jenkins, EC2, Webhooks
 
----
+### 🏗️ [Java App on AWS – 3-Tier Arch](https://github.com/krrishmahar/Java-App-on-AWS-3-Tier-Architecture)
+Web-App with EC2 (App), RDS (DB), S3 (Assets), Nginx reverse proxy  
+> Tools: Java, AWS, RDS, S3, Tomcat, Nginx
 
-## 🧑‍💻 About Me
+### 🏨 [Veda Hotel Booking App](https://github.com/krrishmahar/veda-app)
+React + Spring Boot App with CI/CD via GitHub Actions, Dockerized backend  
+> Tools: React, Spring Boot, MySQL, GitHub Actions
 
-- 🎓 **Background:** 3rd-year B.Tech in Computer Engineering
-- 🌱 **DevOps Focus:** CI/CD pipelines, containerization, infrastructure automation
-- ☁️ **Cloud:** Hands-on with AWS services – EC2, S3, RDS
-- 🐳 **Tools:** Jenkins, GitHub Actions, Docker, Terraform, Kubernetes (Minikube)
-- 🤖 **Side Focus:** ML/DL basics – Linear Regression, SVM, ANN, CNN
-- ✍️ **Blogging:** [medium.com/@krrishmahar5](https://medium.com/@krrishmahar5)
+### 🤖 [Fetch My Tweets](https://github.com/krrishmahar/fetch-tweets)
+Python bot + GitHub Action that scrapes tweets and updates profile README  
+> Tools: Python, Selenium, GitHub Actions
 
----
-
-## 🚀 Key DevOps Projects
-
-### 🔹 [Go Wiki DevOpsified](https://github.com/krrishmahar/go-wiki-devopsified)
-> Dockerized Go wiki app with CI/CD pipeline using Jenkins and GitHub Webhooks. Deployed to AWS EC2 with automated builds and Nginx setup.
-
-### 🔹 [Java App on AWS – 3 Tier Architecture](https://github.com/krrishmahar/Java-App-on-AWS-3-Tier-Architecture)
-> Java web app using EC2, RDS, and S3. Configured Tomcat, Nginx reverse proxy, and manual AWS provisioning with a cloud-native 3-tier design.
-
-### 🔹 [Veda Hotel Booking App](https://github.com/krrishmahar/veda-app)
-> Frontend (React + Tailwind CSS) and Backend ([Spring Boot](https://github.com/krrishmahar/veda-app-backend)) hotel booking platform. Dockerized backend with GitHub Actions CI/CD.
-
-### 🔹 [Fetch My Tweets](https://github.com/krrishmahar/fetch-tweets)
-> GitHub Action that scrapes latest tweets using Python + Selenium and updates your GitHub profile README automatically.
-
-### 🔹 [Microblog](https://github.com/krrishmahar/my-microblog)
-> Flask-based microblog built from scratch with database integration and authentication. Longest maintained project.
+### ✍️ [Microblog (Flask)](https://github.com/krrishmahar/my-microblog)
+Flask blog with authentication & database integration  
+> Tools: Python, Flask, SQLite/MySQL
 
 ---
 

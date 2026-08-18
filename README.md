@@ -18,7 +18,7 @@
 
 - 🎓 Computer Engineering undergraduate at Mumbai University (2023–2027), focused on backend architecture, full-stack systems, and DevOps.
 - 💼 Backend Development Intern @ GetFly Technologies — built scalable REST APIs, JWT auth pipelines, and optimized DB schemas for a college Exam Management SaaS.
-- 🧪 Project Lead / CTO for **LabSphere**, a smart pathology lab management system (LIMS).
+- 🧪 Project Lead for **LabSphere**, a smart pathology lab management system (LIMS).
 - 🌱 Actively contributing to **Apache Dubbo**, and gearing up for **GSoC 2027** — exploring Apache Seata, Doris, and Pulsar as I go deeper into distributed systems.
 - 🔭 Currently expanding beyond web dev into distributed systems, Go, Rust, and Linux internals.
 - 📬 Reach me at **krrishmahar5@gmail.com**
@@ -45,10 +45,6 @@ Automated CI/CD: Jenkins & GitHub Webhooks → Dockerized Go App → AWS EC2 + N
 Three-tier architecture: EC2 (Compute), RDS (Database), S3 (Assets), Nginx reverse proxy.
 > **Tools:** Java, AWS EC2/RDS/S3, Tomcat, Nginx
 
-### 🏨 [Veda Hotel Booking Platform](https://github.com/krrishmahar/veda-app)
-Full-stack hotel reservation app with automated CI/CD.
-> **Tools:** React, Spring Boot, MySQL, Docker, GitHub Actions
-
 ---
 
 ## 🌐 Open Source Contributions
@@ -70,10 +66,8 @@ Full-stack hotel reservation app with automated CI/CD.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" height="42" alt="Go" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="42" height="42" alt="Rust" title="Rust"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="NodeJS" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" alt="Express" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="NextJS" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot"/>
@@ -104,16 +98,17 @@ Full-stack hotel reservation app with automated CI/CD.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended-frontend-eight-virid.vercel.app/api?username=krrishmahar&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  
+  <img src="https://github-stats-extended.vercel.app/api?username=krrishmahar&custom_title=Stat%20Card%20&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub Streak" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishmahar&theme=radical" alt="GitHub Streak" height="165" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-stats-extended-frontend-eight-virid.vercel.app/api/top-langs/?username=krrishmahar&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=krrishmahar&layout=donut&langs_count=6&theme=synthwave&cache_seconds=1800" alt="Top Languages" />
 </div>
-<br/>
+<br />
 <div align="center">
-  <img src="https://github-profile-trophy-tau-ochre.vercel.app/?username=krrishmahar&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://trophy.benkou.dev/?username=krrishmahar&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 ---

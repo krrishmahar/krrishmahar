@@ -104,16 +104,16 @@ Full-stack hotel reservation app with automated CI/CD.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krrishmahar&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended-frontend-eight-virid.vercel.app/api?username=krrishmahar&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishmahar&theme=radical" alt="GitHub Streak" height="165" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishmahar&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-eight-virid.vercel.app/api/top-langs/?username=krrishmahar&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=krrishmahar&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy-tau-ochre.vercel.app/?username=krrishmahar&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 ---

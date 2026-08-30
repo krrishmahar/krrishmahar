@@ -108,7 +108,7 @@ Three-tier architecture: EC2 (Compute), RDS (Database), S3 (Assets), Nginx rever
 </div>
 <br />
 <div align="center">
-  <img src="https://trophy.benkou.dev/?username=krrishmahar&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=krrishmahar&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 ---
